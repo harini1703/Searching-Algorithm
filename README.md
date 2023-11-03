@@ -1,4 +1,4 @@
-# Searching-Algorithm
+# Searching-Algorithm 
 
 This repository contains implementations of various searching algorithms in different programming languages.
 
