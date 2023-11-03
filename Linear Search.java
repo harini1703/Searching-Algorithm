@@ -20,8 +20,6 @@ public class linearSearchIndex
             {
                 return i;
             }
-
-
         }
 //no ele found
         return -1;
