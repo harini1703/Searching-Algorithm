@@ -8,8 +8,8 @@ public class Ternary_search
         System.out.println(ans);
     }
     static int Ternary_search(int num[],int n,int start,int end) {
-        //int start = 0;
-        //int end = num.length - 1;
+        int start = 0;
+        int end = num.length - 1;
         int index = -1;
         while (start <= end)
         {
