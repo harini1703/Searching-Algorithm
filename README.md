@@ -7,5 +7,7 @@ This repository contains implementations of various searching algorithms in diff
 - **Linear search**
 - **Binary Search**
 - **Ternary Search**
+- **Jump Search**
+- **Interpolation Search**
 
 
